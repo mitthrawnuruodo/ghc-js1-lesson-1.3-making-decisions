@@ -98,3 +98,12 @@ b) Make a default case that logs out "That's not a month...". Now, enter "may" -
 c) Make sure that the input no longer is case sensetive; so as an example it doesn't matter if the input is "May" or "may", it displays "It's Spring!" either way.
 
 > Tip look at [str.toLowerCase()](https://www.w3schools.com/jsref/jsref_tolowercase.asp) rather than adding cases.
+
+## Exercise 10
+Ask the user to input a number representing the voltage needed for an appliance (typical 1.5, 6, 12, 24, 110, 230, 480, etc).
+
+If the number is between 220 and 240, then display an alert saying "This can run on the usual grid". 
+
+If not display "This need an inverter or something".
+
+> Tip to make an expression for *between* you can check if x is equal or more than the lowest and at the same time x is also less than or equal to the highest in the range.
