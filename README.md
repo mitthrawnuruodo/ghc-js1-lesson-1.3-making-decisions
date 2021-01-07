@@ -82,3 +82,19 @@ a) Console log out the `output` variable. What is console logged out?
 b) Make a `default` case that gives `output` the value "That's not a fruit, at least not one I've heard of." 
 
 c) Change the original `fruit` variable to the value "kiwi". What is console logged out now?
+
+## Exercise 9
+Ask the user to enter a month.
+
+a) Make a `switch` statement that takes the input and console logs out one of the following.
+
+* If the input is December, January or February, then console log: "It's Winter!".
+* If it's March, April or May, then log out "It's Spring!".
+* If it's June, July or August, then log out "It's Summer!".
+* If it's September, October or November, then log out "It's Autumn!".
+
+b) Make a default case that logs out "That's not a month...". Now, enter "may" - and not "May" as input; what is logged out?
+
+c) Make sure that the input no longer is case sensetive; so as an example it doesn't matter if the input is "May" or "may", it displays "It's Spring!" either way.
+
+> Tip look at [str.toLowerCase()](https://www.w3schools.com/jsref/jsref_tolowercase.asp) rather than adding cases.
