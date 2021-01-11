@@ -28,9 +28,11 @@ Ask the user to input their name.
 
 If the name is set display a message saying "Hello, [name]".
 
-If it wasn't display a message saying "Awww!"
+If nothing was entered display a message saying "Awww!"
 
 > Tip: Use [prompt()](https://www.w3schools.com/jsref/met_win_prompt.asp) to allow input
+
+What happens if the user presses "Cancel"?
 
 ## Exercise 4
 Make a variable `myAge` and give it a numeric value (eg. your age).
