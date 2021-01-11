@@ -43,7 +43,7 @@ Make an if...else if...else statement that console logs out the following scenar
 * If `myAge` is less than 18, it says "You are juvenile".
 * If `myAge` is less than 30, it says "You are still young".
 * If `myAge` is less than 50, it says "You aren't exactly young anymore, are you?"
-* If `myAge` is less than 70, it says "You're getting really old?"
+* If `myAge` is less than 70, it says "You're getting really old, aren't you?"
 * If `myAge` is less than 100, it says "How is retirement treating you?"
 * If `myAge` is 100 or more, it says "Centennial? Impressive...";
 
