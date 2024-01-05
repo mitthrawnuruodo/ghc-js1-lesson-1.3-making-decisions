@@ -1,4 +1,4 @@
-# Exercises for Programming Foundations Lesson 3
+# Exercises for JavaScript 1 Lesson 1.3
 
 ## Exercise 1
 Make a variable `myNumber` with a number value of 10.
